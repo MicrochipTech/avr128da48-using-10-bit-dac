@@ -1,2 +1,9 @@
-*/Debug
-.vs
+*/Generating_Amplitude_Modulated_Signal_Example/Debug/
+*/Generating_Amplitude_Modulated_Signal_Example/Release/
+*/Generating_Constant_Signal_Example/Debug/
+*/Generating_Constant_Signal_Example/Release/
+*/Generating_Sine_Wave_Signal_Example/Debug/
+*/Generating_Sine_Wave_Signal_Example/Release/
+*/Reading_DAC_with_ADC_Example/Debug/
+*/Reading_DAC_with_ADC_Example/Release/
+*/.vs
